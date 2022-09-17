@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 647bd469fdc9dfb499710ce8e3bfc11d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainEngine: {instanceID: 0}
+  - death: {instanceID: 0}
+  - levelComplete: {fileID: 8300000, guid: 6e85c8cc97e59794b8f53b2976370e88, type: 3}
+  - gameComplete: {fileID: 8300000, guid: 06dd47a78a76725439ac0306bd3522fc, type: 3}
+  - mainEngineParticles: {fileID: 198100719057022332, guid: a3553fd250eb92d4091bebde350c6739, type: 3}
+  - deathParticles: {fileID: 198204746014789312, guid: ab79a37535b979f48b6de56e3a0a5cb0, type: 3}
+  - levelCompleteParticles: {fileID: 198631066050499358, guid: 62198a3a5dbb64a4f9e1618929224faa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
