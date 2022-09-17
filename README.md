@@ -14,3 +14,5 @@ Reach the green platform without crashing.
 Instructions
 
 Open the Project Ice.exe in the build folder to start the game.
+
+Hosted at : https://phoenix-2811.itch.io/project-ice
