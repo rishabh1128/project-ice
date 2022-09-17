@@ -9,4 +9,8 @@ Press space to thrust,
 
 A to rotate left, D to rotate right and Esc to quit.
 
-Reach the green platform without crashing. 
+Reach the green platform without crashing.
+
+Instructions
+
+Open the Project Ice.exe in the build folder to start the game.
